@@ -25,3 +25,6 @@ footer { color: #333333;
 		 font-size: .75em;
 		 font-style: italic; }
 .feature { color: #C70000; }
+#wrapper { margin-left: auto;
+        margin-right: auto;
+         width: 80%; }
